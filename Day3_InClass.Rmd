@@ -106,4 +106,3 @@ What changed between the the two outputs when I changed it from true to false wa
 
 This document is supposed to show my mastery of r by showing how I can format text differently. It is supposed to be practice for me and classwork at the same time. It should produce a text document or html that is formatted correctly.
 `r Sys.Date()`
-`r 33+34 ` 
