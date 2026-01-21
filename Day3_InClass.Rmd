@@ -1,6 +1,6 @@
 ---
 title: 'RMarkdown:  In Class Assignment'
-author: "YOUR NAME HERE"
+author: "Fredy Guevara"
 date: "Data 2401"
 output: 
   html_document:
@@ -42,7 +42,7 @@ Reminders:
 
 # Part 2: Code Chunks
 
-```{r}
+```{r echo = FALSE}
 2 + 2
 ```
 
@@ -66,6 +66,8 @@ Complete the following steps:
 > To include inline code, use this weird little `r 2+2` pattern, putting the code where I have 2+2 (which is code!) 
 > You can use the function `Sys.Date()`, which would be added like this `r Sys.Date()` but you can do something else if you want. (Look at the knit html to see what this does.)
 
+
+
  
 
 # Submitting Instructions
@@ -77,4 +79,31 @@ When you are finished:
   - The updated `.rmd` file 
   - The generated `.html` file
 - Submit the GitHub link to the assignment on Canvas.
- 
+
+# Fredy Work Here
+## Wise Words
+
+> “No one is born into this world to be alone!” - Jaguar D. Saul
+
+[Best One Piece Quotes](https://www.crunchyroll.com/news/features/2025/5/12/one-piece-quotes?srsltid=AfmBOop-9xQuXAhWSFbMjYJK-4K8gr3FyU0A3Z1idNe1Numjjww5-Phc)
+
+[Jaguar D. Saul](https://onepiece.fandom.com/wiki/Jaguar_D._Saul)
+
+## I recommend
+### Echiro Oda
+
+````
+Pirates are Evil? Marines are righteous? These terms have always changed throughout the course of history. Kid's who have never seen peace and kid's who have never seen war have different values! Those who stand at the top determine what's wrong and what's right! This very place is a neutral ground! Justice will prevail you say, of course it will. Those who win the war, become the Justice.
+````
+
+- **One Piece**
+
+## Part 2 Work
+
+What changed between the the two outputs when I changed it from true to false was whether the 2 + 2 was hidden or not. The code still ran the same and I believe people would like code hidden in many instances as they just want the results.As for wanting to have the code be shown in reports a reason I could see is that the person wants their work shown so others could understand the process or what was done to achieve the said result.
+
+## About this document
+
+This document is supposed to show my mastery of r by showing how I can format text differently. It is supposed to be practice for me and classwork at the same time. It should produce a text document or html that is formatted correctly.
+`r Sys.Date()`
+`r 33+34 ` 
